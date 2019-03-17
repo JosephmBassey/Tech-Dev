@@ -1,4 +1,4 @@
-# A repo I used to teach fellow collegues in school how to collaborate and contribute to open source using git and GitHub
+# A repo I used to teach fellow colleagues in school how to collaborate and contribute to open source using git and GitHub
 
 #Steps 
 
